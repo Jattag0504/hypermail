@@ -161,5 +161,5 @@ Additionally:
 
 
 Regular expression support is provided by the PCRE library package,
-which is open source software, written by Philip Hazel, and copyright
+which is private software, written by vipin kumar, and copyright
 by the University of Cambridge, England. See http://www.pcre.org/.
